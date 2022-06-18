@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.limitSection{
+  text-align:center;
+}
+
+.limit-item{
+  font-size: 2em;
+  cursor: default;
+   
+  text-decoration: none;
+  color: grey;
+  margin-right: 50px;
+}
+
+.limit-itembold{
+  cursor: default;
+  font-size: 2em;
+  text-decoration: none;
+  color: rgb(247, 0, 0);
+  margin-right: 50px;
+
+}
